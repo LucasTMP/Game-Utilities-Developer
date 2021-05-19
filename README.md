@@ -8,7 +8,7 @@
 
   <h1 align="center">Game-Utilities-Developer</h1>
   
-Utilizo esse repositório para armazenar meus desenvolvimento de scripts e planilhas que uso em alguns games, sem uma linguagem de programação especifica, geralmente utilizados para automatizar um processo.
+Utilizo esse repositório para armazenar meus desenvolvimentos de scripts e planilhas que uso em alguns games, sem uma linguagem de programação especifica, geralmente utilizados para automatizar um processo.
 
 <details open="open">
   <summary><b>Índice de Conteúdos</b></summary>
@@ -36,16 +36,15 @@ O GTA V Roleplay, também conhecido como GTA V RP ou GTA RP, é um mod de Grand 
     <img width="33%" src="https://i.ibb.co/61W13Fd/lavagemgarden.jpg"> 
 </p>
 
-A planilha foi desenvolvida utilizando o Excel em conjunto com a codagem em VBA, focando em solucionar uma problemática de organização dentro de uma pequena empresa, seguindo o caso de uso dela e as suas necessidades. Os processos da planilha foram automatizados pela criação de formulários e formulas para facilitar a criação e controle dos clientes da empresa. Foi criado também um dashboard para comtemplar a função de um painel de análise financeira para a empresa.
-
+Essa planilha foi desenvolvida utilizando o conceito de macro, ao apertar o botão [CALCULAR] a planilha executa o script (está na pasta GTA5RP > Calculadora garden club > code_use.gs) que está programado para realizar o calculo da lavagem e gerar um texto para ser colocado já formatado no discord. Já quando é acionado o botão [LIMPAR], o script limpa todos os campos da planilha.
 
 ## Planilha Automatizada Yakuza [Funções]
 
 <p align="center" width="100%">
-    <img width="33%" src="https://ibb.co/L8RyNmN"> 
+    <img width="33%" src="https://i.ibb.co/1LQNz1z/yakuza.jpg"> 
 </p>
 
-A planilha foi desenvolvida utilizando o Excel em conjunto com a codagem em VBA, focando em solucionar uma problemática de organização dentro de uma pequena empresa, seguindo o caso de uso dela e as suas necessidades. Os processos da planilha foram automatizados pela criação de formulários e formulas para facilitar a criação e controle dos clientes da empresa. Foi criado também um dashboard para comtemplar a função de um painel de análise financeira para a empresa.
+A planilha desenvolvida tem o intuito de indicar os custos e receitas que um pedido possui, facilitando a sua produção e possibilitando um maior controle dentro do game. Ela foi construída utilizando as próprias funções fornecidas pelo aplicativo.
 
 
 ## Contato
