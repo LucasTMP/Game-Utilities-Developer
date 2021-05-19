@@ -8,7 +8,7 @@
 
   <h1 align="center">Game-Utilities-Developer</h1>
   
-Utilizo esse repositório para armazenar meus desenvolvimento de scripts e planilhas que utilizo em alguns games, sem uma linguagem de programação especifica, geralmente utilizados para automatizar um processo.
+Utilizo esse repositório para armazenar meus desenvolvimento de scripts e planilhas que uso em alguns games, sem uma linguagem de programação especifica, geralmente utilizados para automatizar um processo.
 
 <details open="open">
   <summary><b>Índice de Conteúdos</b></summary>
@@ -28,23 +28,24 @@ Utilizo esse repositório para armazenar meus desenvolvimento de scripts e plani
 
 ## GTA 5 RP
 
+O GTA V Roleplay, também conhecido como GTA V RP ou GTA RP, é um mod de Grand Theft Auto V disponível PC, que modifica a porção offline do jogo (do modo Campanha) e o transforma em um jogo online, que se comporta como um RPG de mesa. No GTA RP, os jogadores controlam criminosos aleatórios e precisam, assim como em uma partida de RPG, interpretar o papel e agir como um personagem. O GTA RP permite que os usuários criem suas próprias histórias dentro do jogo, mas todos interagem com todos e as ações podem trazer consequências e todo mundo.
+
+### Planilha Automatizada Garden Club [Script]
+
 <p align="center" width="100%">
     <img width="33%" src="https://i.ibb.co/gFDn4jj/1.jpg"> 
 </p>
 
 A planilha foi desenvolvida utilizando o Excel em conjunto com a codagem em VBA, focando em solucionar uma problemática de organização dentro de uma pequena empresa, seguindo o caso de uso dela e as suas necessidades. Os processos da planilha foram automatizados pela criação de formulários e formulas para facilitar a criação e controle dos clientes da empresa. Foi criado também um dashboard para comtemplar a função de um painel de análise financeira para a empresa.
 
-### Planilha Automatizada Garden Club [Script]
-
-Esse projeto foi desenvolvido utilizando a ferramenta Excel do pacote Office, em conjunto com a programação em VBA (Visual Basic for Applications).
-
-* [Excel](https://www.microsoft.com/pt-br/microsoft-365/excel)
-* [Pacote Office](https://www.microsoft.com/pt-br/microsoft-365/business/compare-all-microsoft-365-business-products-b?&ef_id=EAIaIQobChMIw83Cx5HK8AIVwoORCh0CWwJ3EAAYASAAEgLcufD_BwE:G:s&OCID=AID2100139_SEM_EAIaIQobChMIw83Cx5HK8AIVwoORCh0CWwJ3EAAYASAAEgLcufD_BwE:G:s&lnkd=Google_O365SMB_Brand&gclid=EAIaIQobChMIw83Cx5HK8AIVwoORCh0CWwJ3EAAYASAAEgLcufD_BwE)
-
 
 ## Planilha Automatizada Yakuza [Funções]
 
-Basta realizar o download da planilha e abrir ela normalmente, aceitando os acessos e utilização de macros.
+<p align="center" width="100%">
+    <img width="33%" src="https://i.ibb.co/gFDn4jj/1.jpg"> 
+</p>
+
+A planilha foi desenvolvida utilizando o Excel em conjunto com a codagem em VBA, focando em solucionar uma problemática de organização dentro de uma pequena empresa, seguindo o caso de uso dela e as suas necessidades. Os processos da planilha foram automatizados pela criação de formulários e formulas para facilitar a criação e controle dos clientes da empresa. Foi criado também um dashboard para comtemplar a função de um painel de análise financeira para a empresa.
 
 
 ## Imagens
