@@ -7,28 +7,26 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
   <h1 align="center">Game-Utilities-Developer</h1>
+  
+Utilizo esse repositório para armazenar meus desenvolvimento de scripts e planilhas que utilizo em alguns games, sem uma linguagem de programação especifica, geralmente utilizados para automatizar um processo.
 
 <details open="open">
   <summary><b>Índice de Conteúdos</b></summary>
   <ol>
     <li>
-      <a href="#Sobre-o-projeto">Sobre o Projeto</a>
+      <a href="#GTA-5-RP">GTA 5 RP</a>
       <ul>
-        <li><a href="#Desenvolvido-com">Desenvolvido com</a></li>
+        <li><a href="#Planilha-Automatizada-Garden-Club-[Script]">Planilha Automatizada Garden Club [Script]</a></li>
+      </ul>
+      <ul>
+        <li><a href="#Planilha-Automatizada-Yakuza-[Funções]">Planilha Automatizada Yakuza [Funções]</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#Como-começar">Como começar</a>
-      <ul>
-        <li><a href="#Pré-requisitos ">Pré-requisitos </a></li>
-      </ul>
-    </li>
-    <li><a href="#Como-usar">Como usar</a></li>
     <li><a href="#Contato">Contato</a></li>
   </ol>
 </details>
 
-## Sobre o projeto
+## GTA 5 RP
 
 <p align="center" width="100%">
     <img width="33%" src="https://i.ibb.co/gFDn4jj/1.jpg"> 
@@ -36,7 +34,7 @@
 
 A planilha foi desenvolvida utilizando o Excel em conjunto com a codagem em VBA, focando em solucionar uma problemática de organização dentro de uma pequena empresa, seguindo o caso de uso dela e as suas necessidades. Os processos da planilha foram automatizados pela criação de formulários e formulas para facilitar a criação e controle dos clientes da empresa. Foi criado também um dashboard para comtemplar a função de um painel de análise financeira para a empresa.
 
-### Desenvolvido com
+### Planilha Automatizada Garden Club [Script]
 
 Esse projeto foi desenvolvido utilizando a ferramenta Excel do pacote Office, em conjunto com a programação em VBA (Visual Basic for Applications).
 
@@ -44,26 +42,10 @@ Esse projeto foi desenvolvido utilizando a ferramenta Excel do pacote Office, em
 * [Pacote Office](https://www.microsoft.com/pt-br/microsoft-365/business/compare-all-microsoft-365-business-products-b?&ef_id=EAIaIQobChMIw83Cx5HK8AIVwoORCh0CWwJ3EAAYASAAEgLcufD_BwE:G:s&OCID=AID2100139_SEM_EAIaIQobChMIw83Cx5HK8AIVwoORCh0CWwJ3EAAYASAAEgLcufD_BwE:G:s&lnkd=Google_O365SMB_Brand&gclid=EAIaIQobChMIw83Cx5HK8AIVwoORCh0CWwJ3EAAYASAAEgLcufD_BwE)
 
 
-## Como começar
+## Planilha Automatizada Yakuza [Funções]
 
 Basta realizar o download da planilha e abrir ela normalmente, aceitando os acessos e utilização de macros.
 
-### Pré-requisitos
-
-Possuir a ferramenta Excel instalada, lembrando que a planilha está otimizada somente para o sistema operacional Windows (até o momento)
-
-## Como usar
-
-A utilização da planilha está diretamente ligada as ações dos botões disponíveis na parte superior da planilha.
-
-- <b>Cadastrar:</b> Abre o formulário de cadastro de novos clientes
-- <b>Excluir:</b> Depois de selecionar uma linha (cliente) para remover, basta clicar sobre o botão e aceitar a remoção
-- <b>Descontos:</b> Abre o formulário para realizar a simulação dos preços em relação aos possíveis descontos
-- <b>Atualizar valores:</b> Permite a alteração do valor dos produtos e serviços fornecidos
-- <b>Atualizar Dashboard:</b> Realiza a atualização dos valores da Aba (planilha) Dashboard, levando em consideração as tabelas dinâmicas
-- <b>Pesquisar:</b> Utilize a caixa de pesquisa para encontrar um cliente
-- <b>Setas para mudança de abas:</b> Utilize as setas para alterar entre as planilhas
-- <b>Condicionais:</b> A planilha contém várias condicionais para possibilitar um controle e visualização melhor de determinados pontos importantes necessários no uso da empresa.
 
 ## Imagens
 
